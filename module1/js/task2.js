@@ -12,6 +12,10 @@ alert (myAge);
 
 alert (friendsAge);
 
+console.log(myAge);
+
+console.log(friendsAge);
+
 // ---
 
 const a = 5;

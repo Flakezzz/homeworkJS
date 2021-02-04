@@ -1,51 +1,51 @@
-const userName = 'Mango';
+// const userName = 'Mango';
 
-console.log(userName);
+// console.log(userName);
 
-const age = 14;
+// const age = 14;
 
-console.log(age);
+// console.log(age);
 
-const money = 12000;
+// const money = 12000;
 
-console.log(money);
+// console.log(money);
 
-const color = 'red';
+// const color = 'red';
 
-console.log(color);
+// console.log(color);
 
-const subject = 'Math';
+// const subject = 'Math';
 
-console.log(subject);
+// console.log(subject);
 
 
 
-let job;
+// let job;
 
-job = 'Enginer';
+// job = 'Enginer';
 
-console.log(job);
+// console.log(job);
 
-let car;
+// let car;
 
-car = 'Toyota Supra';
+// car = 'Toyota Supra';
 
-console.log(car);
+// console.log(car);
 
-let hobby;
+// let hobby;
 
-hobby = 'games';
+// hobby = 'games';
 
-console.log(hobby);
+// console.log(hobby);
 
-let weight;
+// let weight;
 
-weight = 40;
+// weight = 40;
 
-console.log(weight);
+// console.log(weight);
 
-let high;
+// let high;
 
-high = 168;
+// high = 168;
 
-console.log(high);
+// console.log(high);
