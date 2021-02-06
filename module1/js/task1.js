@@ -1,51 +1,69 @@
-// const userName = 'Mango';
+const str = "привіт";
 
-// console.log(userName);
+const num = 123;
 
-// const age = 14;
+const flag = true;
 
-// console.log(age);
+const txt = "true"
 
-// const money = 12000;
+console.log(str);
 
-// console.log(money);
+console.log(num);
 
-// const color = 'red';
+console.log(flag);
 
-// console.log(color);
-
-// const subject = 'Math';
-
-// console.log(subject);
+console.log(txt);
 
 
 
-// let job;
+const userName = 'Mango';
 
-// job = 'Enginer';
+console.log(userName);
 
-// console.log(job);
+const age = 14;
 
-// let car;
+console.log(age);
 
-// car = 'Toyota Supra';
+const money = 12000;
 
-// console.log(car);
+console.log(money);
 
-// let hobby;
+const color = 'red';
 
-// hobby = 'games';
+console.log(color);
 
-// console.log(hobby);
+const subject = 'Math';
 
-// let weight;
+console.log(subject);
 
-// weight = 40;
 
-// console.log(weight);
 
-// let high;
+let job;
 
-// high = 168;
+job = 'Enginer';
 
-// console.log(high);
+console.log(job);
+
+let car;
+
+car = 'Toyota Supra';
+
+console.log(car);
+
+let hobby;
+
+hobby = 'games';
+
+console.log(hobby);
+
+let weight;
+
+weight = 40;
+
+console.log(weight);
+
+let high;
+
+high = 168;
+
+console.log(high);
