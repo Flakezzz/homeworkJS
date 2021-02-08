@@ -6,13 +6,12 @@ const flag = true;
 
 const txt = "true"
 
-console.log(str);
+console.log(typeof str);
 
-console.log(num);
+console.log(typeof num);
 
-console.log(flag);
+console.log(typeof flag);
 
-console.log(txt);
 
 
 
