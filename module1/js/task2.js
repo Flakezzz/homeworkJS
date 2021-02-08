@@ -8,13 +8,7 @@ const myAge = 13;
 
 const friendsAge =15;
 
-alert (myAge);
-
-alert (friendsAge);
-
-console.log(myAge);
-
-console.log(friendsAge);
+alert(myAge + friendsAge);
 
 // ---
 
