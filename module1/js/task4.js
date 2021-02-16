@@ -42,32 +42,51 @@ let k = 1;
 let randomNumber = Math.random() * (( 5 - 1 ) + 1);
 randomNumber = Number.parseInt(randomNumber);
 
-if (randomNumber === 0) {
+if(randomNumber === 0) {
     console.log(randomNumber + 1)
-} else {
-    if (randomNumber === 1) {
-        console.log(randomNumber);
-    } else {
-        if (randomNumber === 2) {
-            console.log(randomNumber);
-        } else {
-            if (randomNumber === 3) {
-                console.log(randomNumber);
-            } else {
-                if (randomNumber === 4) {
-                    console.log(randomNumber);
-                } else {
-                    if (randomNumber === 5) {
-                        console.log(randomNumber);
-                    } else {
-                        
-                    }
-                }
-            }
-        }
-    
-    } 
+} else if(randomNumber === 1) {
+    console.log(randomNumber);
 }
+else if(randomNumber === 2) {
+    console.log(randomNumber);
+}
+else if(randomNumber === 3) {
+    console.log(randomNumber);
+}
+else if(randomNumber === 4) {
+    console.log(randomNumber);
+}
+else if(randomNumber === 5) {
+    console.log(randomNumber);
+}
+
+
+// if (randomNumber === 0) {
+//     console.log(randomNumber + 1)
+// } else {
+//     if (randomNumber === 1) {
+//         console.log(randomNumber);
+//     } else {
+//         if (randomNumber === 2) {
+//             console.log(randomNumber);
+//         } else {
+//             if (randomNumber === 3) {
+//                 console.log(randomNumber);
+//             } else {
+//                 if (randomNumber === 4) {
+//                     console.log(randomNumber);
+//                 } else {
+//                     if (randomNumber === 5) {
+//                         console.log(randomNumber);
+//                     }
+                        
+                    
+//                 }
+//             }
+//         }
+    
+//     } 
+// }
 
 ///
 
